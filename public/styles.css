@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+}
+
+.btn-big-red {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: red;
+  border: 1px solid black;
+  font-size: 34px;
+}
+
+.sunset {
+  width: 300px;
+}
